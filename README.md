@@ -11,7 +11,7 @@ Connections:
 | SX1262 MISO        | GPIO18 |
 | SX1262 MOSI        | GPIO19 |
 | SX1262 NSS         | GPIO20 |
-| SX1262 DIO_1 (INT) | GPIO23 |
+| SX1262 DIO_1 (IRQ) | GPIO23 |
 | SX1262 BUSY        | GPIO12 |
 | SX1262 RESET       | GPIO13 |
 
