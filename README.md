@@ -8,6 +8,7 @@ Connections:
 
 | Description        | PIN    |
 | ------------------ |--------|
+| SX1262 SCK         | GPIO5  |
 | SX1262 MISO        | GPIO18 |
 | SX1262 MOSI        | GPIO19 |
 | SX1262 NSS         | GPIO20 |
