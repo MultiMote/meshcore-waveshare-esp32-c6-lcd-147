@@ -15,8 +15,9 @@ Connections:
 | SX1262 DIO_1 (IRQ) | GPIO23 |
 | SX1262 BUSY        | GPIO12 |
 | SX1262 RESET       | GPIO13 |
+| SX1262 RXEN        | GPIO4  |
 
-On-board button in connected to GPIO9.
+On-board button in connected to GPIO9. SX1262 DIO2 connected to TXEN.
 
 ![stuff](stuff.jpg)
 
